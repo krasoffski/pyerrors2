@@ -412,5 +412,3 @@ Presentation:
 `gitpitch.com/krasoffski/pyerrors2`
 
 krasoffski@ (gmail, telegram, github, etc)
-
----
